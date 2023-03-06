@@ -18,7 +18,7 @@ Deployed Tableau Analysis
 * Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
 * The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
-[Checkout times for users] 
+[Checkout times for users](CheckoutTimeForUsers.PNG) 
 
 [Checkout times by gender}
 
