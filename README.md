@@ -20,14 +20,16 @@ Deployed Tableau Analysis
 
 [Checkout times for users](CheckoutTimeForUsers.PNG) 
 
-[Checkout times by gender}
+[Checkout times by gender](CheckoutTimeByGender.PNG)
 
 * Male users take approximately 3 times more rides than the female users.
-* 
+ 
 
 ### Trips by Gender on Weekdays
 
-[trips map showing who uses the bikes on weekdays]
+[Trips map showing who uses the bikes on weekdays](TripsByGenderWeekdayPerHour.PNG)
+
+[Trips map showing each hour the bike is used](TripsByWeekdayForEachHour.PNG)
 
 * Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
 * Weekend rides are highest from 10:00 AM to 7:00 PM.
@@ -35,8 +37,9 @@ Deployed Tableau Analysis
 
 ### Starting and Ending Locations 
 
-[Top Starting Locations}
-{Top Ending Locations]
+[Top Starting Locations](TopStartingLocations.PNG)
+
+[Top Ending Locations]
 
 * There were over 2.3 million rides for the month of August 2019.
 *81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
