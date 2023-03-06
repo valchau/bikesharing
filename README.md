@@ -7,7 +7,7 @@ Explain the purpose of this analysis.
 ## Results: 
 
 Deployed Tableau Analysis
-[Link to Citibike Tableau Analysis] 
+[Link to Citibike Tableau Analysis](https://public.tableau.com/app/profile/valerie.chau/viz/CitiBikeSharingAnalysis_16779561209320/Citibikeriders) 
 
 
 
