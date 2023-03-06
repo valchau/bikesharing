@@ -13,7 +13,7 @@ Deployed Tableau Analysis
 
 ### Checkout Times 
 
-[August Peak Hours for Checkout]
+[August Peak Hours for Checkout](HoursCheckedOut.PNG)
 
 * Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
 * The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
