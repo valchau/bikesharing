@@ -4,7 +4,10 @@
 Bikesharing helps our environment by reducing the number of cars on the road. It can reduce accidents if cyclists are careful as well, since motor vehicle injuries and fatalities increase the more crowded a location becomes. Here are some benefits of bikesharing: 
 [Benefits of bikesharing](https://www.frontiersin.org/articles/10.3389/fpubh.2022.848169/full)
 
-In this analysis, we are helping a person make a presentation for a bike sharing business to be located in a small city: Des Moines, Iowa. We have a small amount of data, for the month of August for a bikesharing business, Citi Bike, located in New York City. We are going to create some visualizations of the data that can be presented to the city leaders in Des Moines, in hopes they will fund a new bikesharing business in their city. We used data from August because there is likely more traffic during the summer months, and that might help make our presentation more exciting to the leaders of Des Moines.
+In this analysis, we are helping a person make a presentation for a bike sharing business to be located in a small city: Des Moines, Iowa. We have a small amount of data, for the month of August for a bikesharing business, Citi Bike, located in New York City. 
+[Bike sharing](BikeShareNYC.PNG)
+
+We are going to create some visualizations of the data that can be presented to the city leaders in Des Moines, in hopes they will fund a new bikesharing business in their city. We used data from August because there is likely more traffic during the summer months, and that might help make our presentation more exciting to the leaders of Des Moines.
 
 We are using Tableau because is an excellent tool for data visualization. It has a very specific purpose: to provide data visualization that is easy to use and understand, and a lot of companies use it today.
 
